@@ -8,5 +8,13 @@ public class NuevaClase {
             System.out.print(i+" ");
         }
         System.out.println("Realidad");
+        String nombre;
+
+
+
+
+
+
+
     }
 }
