@@ -1,5 +1,5 @@
 public class NuevaClase {
     public static void main(String[] args) {
-        System.out.println("HOLA GIT 3 v2");
+        System.out.println("HOLA GIT  v2");
     }
 }
