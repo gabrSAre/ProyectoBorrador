@@ -1,10 +1,6 @@
 public class NuevaClase {
     public static void main(String[] args) {
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> main
         System.out.println("HOLA GIT  v3");
         System.out.println("Machacacana");
 
