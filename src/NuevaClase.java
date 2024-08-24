@@ -10,10 +10,7 @@ public class NuevaClase {
         System.out.println("Realidad");
         String nombre;
 
-
-
-
-
+        System.out.println("Fin provicional");
         System.out.println("**************************************");
         System.out.println("**************************************");
     }
