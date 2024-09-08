@@ -8,7 +8,9 @@ public class Licorera {
         pedido1.setPrecioPorUnidad(5000);
 
         System.out.println(pedido1);
-        System.out.println();
+
+
+        System.out.println(   pedido1.getPrecioPorUnidad());
 
 
     }
